@@ -2,10 +2,10 @@
   "name": "chat-app-be",
   "version": "1.0.0",
   "description": "Backend built using expressJs, for a chat application",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "jest",
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
